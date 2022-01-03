@@ -24,6 +24,23 @@ git clone https://github.com/pdunne/caliphta.git
 cd caliphta
 ```
 
+### If using Linux
+
+Gtk and its related libraries are used to build the support of Linux. Be sure to install following packages before building:
+
+#### Arch Linux / Manjaro:
+
+```bash
+sudo pacman -S gtk3 libappindicator-gtk3
+```
+
+#### Debian / Ubuntu:
+
+```bash
+sudo apt install libgtk-3-dev libappindicator3-dev
+```
+
+
 ### Debug Mode
 
 ```console
