@@ -19,6 +19,8 @@ A simple GUI version of the pH calibration tool [caliph](https://github.com/pdun
 
 ## Testing locally
 
+See [Tauri Docs](https://tauri.studio/en/docs/getting-started/intro) for installing Tauri.
+
 ```console
 git clone https://github.com/pdunne/caliphta.git
 cd caliphta

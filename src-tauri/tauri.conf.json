@@ -1,7 +1,7 @@
 {
   "package": {
-    "productName": "caliphlta",
-    "version": "0.1.0"
+    "productName": "caliphta",
+    "version": "0.1.1"
   },
   "build": {
     "distDir": "../public",
@@ -57,7 +57,7 @@
     },
     "windows": [
       {
-        "title": "Lodestone",
+        "title": "Caliphta",
         "width": 800,
         "height": 600,
         "resizable": true,

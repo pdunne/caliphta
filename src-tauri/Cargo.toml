@@ -1,6 +1,6 @@
 [package]
 name = "caliphta"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Tauri Test App for calibrating pH meters"
 authors = ["Peter Dunne"]
 license = "MP-2.0"
